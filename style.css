@@ -1,7 +1,4 @@
-span{
-    color:red;
-    margin: 20px;
-    background-color: azure;
-    cursor: pointer;
+img { 
+    width: 300px;  
+    
 }
-/*what i can understand here is that {} it is not an object */
